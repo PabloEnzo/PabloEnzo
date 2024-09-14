@@ -18,7 +18,7 @@ Soy un estudiante de **Ciberseguridad** e **Inteligencia Artificial** con experi
 
 ### 🎯 En qué estoy trabajando:
 - Mejorando mis habilidades en **penetration testing** y la automatización de tareas con IA para aumentar la seguridad en sistemas.
-- Explorando nuevos algoritmos de **machine learning** y cómo aplicarlos en el desarrollo de videojuegos.
+- Explorando nuevos algoritmos de **machine learning** y cómo aplicarlos en las tareas de automatización.
 
 ### 🌐 Encuéntrame en:
-- [LinkedIn](https://www.linkedin.com) | [Twitter](https://twitter.com) | 📧 pabloenzo@example.com
+- [LinkedIn](https://www.linkedin.com) | [Instagram](https://twitter.com) | 📧 pabloenzovelarde@gmail.com
