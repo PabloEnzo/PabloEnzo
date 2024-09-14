@@ -13,7 +13,7 @@ Soy un estudiante de **Ciberseguridad** e **Inteligencia Artificial** con experi
 
 ### 🚀 Proyectos destacados:
 - :dependabot: **Desarrollo de Inteligencia Artificial**: En Enero de 2024 junto a la empresa **ATOS** desarrollamos una Inteligencia Artificial para el sector automobilistico **SEAT**.
-- 
+- :hammer: **Working on new projects...** :sob:
 
 ### 🎯 En qué estoy trabajando:
 - Mejorando mis habilidades en **penetration testing** y la automatización de tareas con IA para aumentar la seguridad en sistemas.
