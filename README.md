@@ -9,12 +9,10 @@ Soy un estudiante de **Ciberseguridad** e **Inteligencia Artificial** con experi
 - **Inteligencia Artificial**: Machine learning, redes neuronales, procesamiento del lenguaje natural.
 - **Videojuegos**: Desarrollo en Unreal Engine, C#, diseño de niveles y optimización de juegos.
 - **Redes**: Configuración de redes, administración de servidores, virtualización y gestión de sistemas.
-- **Lenguajes**: Python, C++, C#, Bash, JavaScript.
+- **Lenguajes**: Python, C++, C#, HTML, CSS, JavaScript.
 
 ### 🚀 Proyectos destacados:
-- 🔒 **Análisis de Vulnerabilidades en Redes**: Proyecto de evaluación y mitigación de riesgos en infraestructuras de red.
-- 🤖 **IA para Juegos**: Desarrollo de inteligencia artificial para NPCs en videojuegos.
-- 🎮 **Juego Multijugador**: Diseño y desarrollo de un videojuego multijugador utilizando Unity.
+- :dependabot: 
 
 ### 🎯 En qué estoy trabajando:
 - Mejorando mis habilidades en **penetration testing** y la automatización de tareas con IA para aumentar la seguridad en sistemas.
