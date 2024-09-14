@@ -1,4 +1,4 @@
-# ¡Hola! Soy Pablo Enzo 👋
+# ¡Hola! Soy Pablo Enzo 🏄
 
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,py,bots)](https://skillicons.dev)
 
@@ -12,7 +12,8 @@ Soy un estudiante de **Ciberseguridad** e **Inteligencia Artificial** con experi
 - **Lenguajes**: Python, C++, C#, HTML, CSS, JavaScript.
 
 ### 🚀 Proyectos destacados:
-- :dependabot: 
+- :dependabot: **Desarrollo de Inteligencia Artificial**: En Enero de 2024 junto a la empresa **ATOS** desarrollamos una Inteligencia Artificial para el sector automobilistico **SEAT**.
+- 
 
 ### 🎯 En qué estoy trabajando:
 - Mejorando mis habilidades en **penetration testing** y la automatización de tareas con IA para aumentar la seguridad en sistemas.
