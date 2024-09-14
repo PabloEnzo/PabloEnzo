@@ -20,4 +20,4 @@ Soy un estudiante de **Ciberseguridad** e **Inteligencia Artificial** con experi
 - Explorando nuevos algoritmos de **machine learning** y cómo aplicarlos en las tareas de automatización.
 
 ### 🌐 Encuéntrame en:
-- [LinkedIn](https://www.linkedin.com) | [Instagram](https://www.instagram.com) | 📧 pabloenzovelarde@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/pablo-enzo-velarde-bagnoli-559406270/) | [Instagram]([https://www.instagram.com](https://www.instagram.com/enzo.velardee/)) | 📧 pabloenzovelarde@gmail.com
