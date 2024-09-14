@@ -7,7 +7,7 @@ Soy un estudiante de **Ciberseguridad** e **Inteligencia Artificial** con experi
 ### 💻 Tecnologías y habilidades:
 - **Ciberseguridad**: Análisis de vulnerabilidades, pruebas de penetración, firewall y sistemas de detección de intrusiones.
 - **Inteligencia Artificial**: Machine learning, redes neuronales, procesamiento del lenguaje natural.
-- **Videojuegos**: Desarrollo en Unity, Unreal Engine, C#, diseño de niveles y optimización de juegos.
+- **Videojuegos**: Desarrollo en Unreal Engine, C#, diseño de niveles y optimización de juegos.
 - **Redes**: Configuración de redes, administración de servidores, virtualización y gestión de sistemas.
 - **Lenguajes**: Python, C++, C#, Bash, JavaScript.
 
