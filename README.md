@@ -1,5 +1,3 @@
-## Welcome to my Porfile! 👋
-
 # ¡Hola! Soy Pablo Enzo 👋
 
 Soy un estudiante de **Ciberseguridad** e **Inteligencia Artificial** con experiencia en **Sistemas Microinformáticos y Redes** y una especialización en **Desarrollo de Videojuegos**. Me apasiona la tecnología, la seguridad informática y la creación de soluciones innovadoras con IA.
