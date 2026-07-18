@@ -2,7 +2,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,kali,py,bots)](https://skillicons.dev)
 
-Soy un estudiante de **Ciberseguridad** e **Inteligencia Artificial** con experiencia en **Sistemas Microinformáticos y Redes** y una especialización en **Desarrollo de Videojuegos**. Me apasiona la tecnología, la seguridad informática y la creación de soluciones innovadoras con IA.
+Soy un estudiante de **Ciberseguridad** e **Inteligencia Artificial** con experiencia en **Sistemas Informáticos y Redes** y una especialización en **Inteligencia Artificial y Ciberseguridad**. Me apasiona la tecnología, la seguridad informática y la creación de soluciones innovadoras con IA.
 
 ### 💻 Tecnologías y habilidades:
 - **Ciberseguridad**: Análisis de vulnerabilidades, pruebas de penetración, firewall y sistemas de detección de intrusiones.
